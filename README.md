@@ -11,23 +11,11 @@ Is tool ke zariye aap 50+ scans aur 50+ enumeration commands run kar sakte hain.
 
 Terminal khol ke ye command chalao:
 
-step 1 
-```bash
+steps
+```
 git clone https://github.com/<your-username>/mystealthy--scan.git
-
-step 2
-```bash
-cd mystealthy--scan
-
-step 3
-```bash
+cd stealthy--scan
 chmod +x mystealthy--scan.sh
-
-step 4
-```bash
 bash install_dependencies.sh
-
-step 5
-```bash
 bash mystealthy--scan.sh
 
