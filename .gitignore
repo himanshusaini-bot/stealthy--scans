@@ -1,0 +1,18 @@
+# Python junk
+__pycache__/
+*.pyc
+
+# Logs and reports
+*.log
+*.txt
+*.pcap
+scan_report.txt
+
+# Backup or temp files
+*.tmp
+*.bak
+*~
+
+# System files
+.DS_Store
+Thumbs.db
